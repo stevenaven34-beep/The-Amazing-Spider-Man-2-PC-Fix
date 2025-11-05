@@ -5,6 +5,14 @@
 [![FPS](https://img.shields.io/badge/FPS-Stable-FFA500?style=flat)](#FPS)
 [![PCGamingWiki - Essential improvements](https://img.shields.io/badge/PCGamingWiki-FIX-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://www.pcgamingwiki.com/wiki/The_Amazing_Spider-Man_2)
 
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # The Amazing Spider-Man 2 PC Fix
 <br><br>
 
