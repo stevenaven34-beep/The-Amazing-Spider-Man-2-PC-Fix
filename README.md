@@ -57,23 +57,25 @@ If you have any issues, with the fixes then please go to discord for help linked
 
 Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 Rage-Low End Gaming - for idea of the tricking the game to read different graphics card.
-Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-# Team Fix Enhancers:
+---
+
+### Fix Enhancers  
+https://fixenhancers.wixsite.com/fix-enhancers
 
 “Creating compatibility fixes and enhancements for legacy PC games.”
-# Chip
 
+# Chip
 - founder
 - reverse engineer
 - programmer
 - developer
+- Game Preservationist
   
 <img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
 
 
 # JokerAlex21 
-
 - founder
 - admin
 - tester 
